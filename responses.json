@@ -1,0 +1,87 @@
+{
+    "greetings": [
+        "Hi! How can I assist you today?",
+        "Hello! How are you doing?",
+        "Hey there! What can I help you with?",
+        "Hi, welcome to the ATS Assistant!",
+        "Hello! What brings you here today?",
+        "Good day! How can I help with your career questions?",
+        "Hey! Ready to talk about your career?",
+        "Hi! How are you feeling today?",
+        "Hello, how can I help you with your CSE journey?",
+        "Hey, nice to see you! What’s on your mind today?"
+    ],
+    "career_options": [
+        "There are many career options in CSE, including software development, data science, AI, and cybersecurity.",
+        "You can pursue roles like software engineer, machine learning engineer, or system administrator in CSE.",
+        "CSE graduates can also explore roles in mobile app development, game development, and database management.",
+        "Some of the trending career paths in CSE include data scientist, cloud computing engineer, and DevOps engineer.",
+        "You can become a backend developer, frontend developer, or full-stack developer as a CSE graduate.",
+        "With CSE, you could even work as a product manager or UX/UI designer.",
+        "CSE offers a wide range of roles in cybersecurity, such as ethical hacker or information security analyst.",
+        "Another growing field is blockchain development, which is ideal for CSE graduates.",
+        "You can pursue a career in cloud services, such as cloud architect or cloud engineer.",
+        "Software testing, automation testing, and quality assurance are other important career options for CSE grads."
+    ],
+    "trending_careers": [
+        "Data Science is one of the most trending careers for CSE graduates.",
+        "Machine Learning engineers are in high demand, especially in the field of AI.",
+        "Cybersecurity specialists are needed more than ever to protect sensitive data.",
+        "Cloud Computing engineers are sought after as companies move to cloud-based infrastructure.",
+        "Blockchain technology is rapidly evolving, and blockchain developers are in high demand.",
+        "DevOps engineers are vital in automating and managing the development lifecycle.",
+        "Artificial Intelligence engineers are now considered essential in various industries.",
+        "IoT (Internet of Things) development is becoming a popular career field with CSE grads.",
+        "AR/VR developers are carving out new and exciting career paths in CSE.",
+        "Robotics engineers are increasingly in demand as industries automate processes."
+    ],
+    "requirements": [
+        "To become a software engineer, you need a solid understanding of programming languages like Java, C++, or Python.",
+        "For a data scientist role, proficiency in Python, SQL, and knowledge of machine learning algorithms is essential.",
+        "To pursue a career in cybersecurity, a good understanding of networks, security protocols, and ethical hacking is crucial.",
+        "For a cloud computing role, you should learn AWS, Azure, or Google Cloud Platform.",
+        "To work as a mobile app developer, learning Swift (for iOS) or Kotlin (for Android) is necessary.",
+        "A machine learning engineer needs to know algorithms, linear algebra, statistics, and deep learning frameworks like TensorFlow.",
+        "To be a system administrator, you should be skilled in Linux/Unix, networking, and troubleshooting.",
+        "For a game developer role, you need experience with game engines like Unity or Unreal Engine.",
+        "Blockchain developers should have knowledge of Solidity, smart contracts, and blockchain fundamentals.",
+        "Web developers should be proficient in HTML, CSS, JavaScript, and frameworks like React or Angular."
+    ],
+    "languages": [
+        "For web development, JavaScript, HTML, CSS, and frameworks like React or Angular are key languages.",
+        "Python is essential for roles in data science and machine learning.",
+        "Java is commonly used in enterprise-level applications and backend development.",
+        "C++ is widely used in performance-critical applications like game development and embedded systems.",
+        "Swift is necessary for developing iOS applications.",
+        "Kotlin is the language of choice for Android app development.",
+        "SQL is important for working with databases in data science or backend development roles.",
+        "Go and Rust are becoming popular for cloud computing and systems programming.",
+        "R is heavily used in data analysis and statistics.",
+        "PHP is still widely used for server-side web development, especially for CMS platforms like WordPress."
+    ],
+    "advice": [
+        "Focus on mastering core programming concepts, as they are the foundation for all roles in CSE.",
+        "Start building projects early; they will help you get practical experience and impress recruiters.",
+        "Keep learning new technologies and frameworks to stay ahead of industry trends.",
+        "Get involved in open-source projects to gain experience and contribute to the tech community.",
+        "Learn problem-solving and algorithmic thinking to excel in coding interviews.",
+        "Networking with professionals in your field can open up more job opportunities.",
+        "Don't limit yourself to one programming language; diversify your skills to be adaptable.",
+        "Stay updated on the latest trends in AI, machine learning, and blockchain, as these fields are growing rapidly.",
+        "Consider earning certifications like AWS, Google Cloud, or CompTIA Security+ to boost your credentials.",
+        "Soft skills such as communication and teamwork are just as important as technical skills in CSE roles."
+    ],
+    "roles": [
+        "Software engineers design, develop, and maintain software applications.",
+        "Data scientists analyze data and build predictive models using machine learning algorithms.",
+        "Machine learning engineers build models and systems that allow machines to learn and improve.",
+        "Cloud architects design cloud infrastructure and systems that are scalable and efficient.",
+        "Cybersecurity professionals protect systems from attacks by identifying vulnerabilities and strengthening defenses.",
+        "Game developers create interactive video games using programming languages and game engines.",
+        "DevOps engineers focus on automating and streamlining development and operational processes.",
+        "AI engineers design and implement artificial intelligence algorithms in various domains like NLP or computer vision.",
+        "Robotics engineers build robots and automate processes in industries such as manufacturing.",
+        "Blockchain developers design decentralized applications (dApps) and smart contracts for blockchain networks."
+    ],
+    "creators": ["I am created by Eshita Aggarwal and Ananya Gupta who are currently studying in Lovely Professional University."]
+}
